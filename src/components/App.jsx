@@ -53,7 +53,7 @@ export default function App ( ) {
         ) : (
           <Notification message="No feedback given" />
         )}
-      </Section>;
+      </Section>
 	  </>)
 
 
